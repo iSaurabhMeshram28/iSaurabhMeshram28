@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iSaurabhMeshram28
 - 👀 I’m interested in Blockchain.
 - 🌱 I’m currently learning Dapps, Ethereum.
-- 📫 How to reach me: Reach out to me on Github
+- 📫 How to reach me: Reach out to me on my Email
 
 <!---
 iSaurabhMeshram28/iSaurabhMeshram28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
