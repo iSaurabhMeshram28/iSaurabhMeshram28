@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Saurabh Meshram</h1>
-<h3 align="center">Transforming Ideas into Code | Coding Aficionado</h3>
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+ <h1 align="center">Hi 👋, I'm Saurabh Meshram</h1>
   <h3 align="center">Transforming Ideas into Code | Coding Aficionado</h3>
  
 </head>
-<body>
+<body align="center">
   <h1>Welcome to my Coding Odyssey! ✨</h1>
   <p>
     I'm Saurabh Meshram, a passionate developer on a journey through the realms of code. Armed with a keyboard and fueled by coffee, I craft digital experiences that transcend pixels.
