@@ -32,7 +32,7 @@
   </p>
 
   <p align="center">
-    🌟 <a href="https://saurabhs-portfolio.vercel.app/">Your Portfolio or Personal Website</a>
+    🌟 <a href="https://saurabhs-portfolio.vercel.app/">My Portfolio Website</a>
   </p>
 
   <p align="center">
