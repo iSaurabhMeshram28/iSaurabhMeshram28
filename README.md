@@ -6,7 +6,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hi 👋, I'm Saurabh Meshram | Code Artisan</title>
+ 
   <h3 align="center">Transforming Ideas into Code | Coding Aficionado</h3>
  
 </head>
