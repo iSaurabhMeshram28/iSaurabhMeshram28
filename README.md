@@ -8,30 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hi 👋, I'm Saurabh Meshram | Code Artisan</title>
   <h3 align="center">Transforming Ideas into Code | Coding Aficionado</h3>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f5f5f5;
-      color: #333;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-    }
-
-    h1 {
-      color: #333;
-    }
-
-    p {
-      margin-bottom: 20px;
-    }
-
-    a {
-      color: #007bff;
-      text-decoration: none;
-      font-weight: bold;
-    }
-  </style>
+ 
 </head>
 <body>
   <h1>Welcome to my Coding Odyssey! ✨</h1>
