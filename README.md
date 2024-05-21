@@ -20,9 +20,10 @@
     🚀 Transforming Ideas into Reality | 🌟 <a href="https://saurabhs-portfolio.vercel.app/">Portfolio</a>
   </p>
 
-  <p align="center">
-    I'm currently diving deep into the world of graphics programming, learning OpenGL for Windows and X Windows, OpenGL ES 3.0 for Android, WebGL 2.0 for the web, DirectX, CUDA, and OpenCL. I'm passionate about mastering these technologies and look forward to working with them in the future.
-  </p>
+ <p align="center">
+  I'm currently immersed in graphics programming, mastering OpenGL, OpenGL ES 3.0, WebGL 2.0, CUDA, and OpenCL. I'm passionate about these technologies and excited to work with them in future projects.
+</p>
+
 
   <p align="center">
     Join me as I explore the ever-evolving landscapes of technology, from the latest frameworks to timeless software craftsmanship. Let's create the future one line of code at a time.
