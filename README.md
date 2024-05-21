@@ -21,7 +21,7 @@
   </p>
 
  <p align="center">
-  I'm currently immersed in graphics programming, mastering OpenGL, OpenGL ES, WebGL, CUDA, and OpenCL. I'm passionate about these technologies and excited to work with them in future projects.
+  I'm currently immersed in graphics programming, learning OpenGL, OpenGL ES, WebGL, CUDA, and OpenCL. I'm passionate about these technologies and excited to work with them in future projects.
 </p>
 
 
