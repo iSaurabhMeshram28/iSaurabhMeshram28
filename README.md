@@ -11,11 +11,7 @@
   <p align="center">
     💻 Full Stack Developer | 🌐 Digital Explorer | ✨ Continuous Learner
   </p>
-
-  <p align="center">
-    By day, I navigate servers and databases; by night, I craft pixel-perfect dreams with front-end magic. I believe in clean code, elegant algorithms, and the power of constant learning.
-  </p>
-
+  
   <p align="center">
     🚀 Transforming Ideas into Reality | 🌟 <a href="https://saurabhs-portfolio.vercel.app/">Portfolio</a>
   </p>
