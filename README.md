@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 </head>
-<body>
-  <h1 align="center">Saurabh Meshram</h1>
+<body>  
   <p align="center">Full Stack Developer | Graphics Programming Enthusiast | Continuous Learner</p>
 
   <p align="center">
