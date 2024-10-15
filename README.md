@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    Currently learning and working on personal projects in graphics programming, exploring OpenGL, OpenGL ES, WebGL, CUDA, and OpenCL.
+    Currently learning and working on personal projects in graphics programming, exploring OpenGL, OpenGL ES, WebGL, DirectX, CUDA, and OpenCL.
   </p>
 
   <p align="center">
