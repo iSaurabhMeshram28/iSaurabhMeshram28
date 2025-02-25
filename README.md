@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Full Stack Developer | Graphics Programming Enthusiast | Continuous Learner**
+# **Graphics Programming Enthusiast | Continuous Learner**
 
 [Portfolio](https://saurabhs-portfolio.vercel.app/)
 
