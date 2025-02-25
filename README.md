@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Graphics Programming Enthusiast | Continuous Learner**
+# **Graphics Programming Enthusiast**
 
 [Portfolio](https://saurabhs-portfolio.vercel.app/)
 
